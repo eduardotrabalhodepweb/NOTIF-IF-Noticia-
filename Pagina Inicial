@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Eduardo, Luiz e Maria">
+    <link rel="icon" href="favicon.ico">
+    <link rel="stylesheet"href="style.css">
+    <title>NOTIF</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap-theme.min.css" rel="stylesheet">
+    <link href="css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+    <link href="theme.css" rel="stylesheet">
+    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+	</head>
+	<body>
+		<img src="zeropoint_logo.png"style="float:right;width:350px;height:180px;">
+		<div id = "header">
+			<h1>Instituto Federal de Educação, Ciência e Tecnologia de Alagoas - IFAL<br>Campus Arapiraca<br>NOTIF-IF Notícias</h1>
+			<button type="button"  class="btn btn-lg btn-default">Página Inicial</button>
+			<button type="button"  class="btn btn-lg btn-default">Sobre</button>
+			<button type="button"  class="btn btn-lg btn-default">Informações de Contato</button>
+		</div>
+		<div id="nav">
+			<a href="paginainicial.html">Pagina Inicial </a><br>
+			<a href="primeiroano.html">Primeiro Ano do IFAL </a><br>
+			<a href="segundooano.html">Segundo Ano do IFAL </a><br>
+			<a href="terceirooano.html">Terceiro Ano do IFAL </a><br>
+			<a href="sobre.html"> Sobre </a><br>
+		</div>
+		<div id="section">
+			<div class="mac">
+				<h1 align="center">Seja BEM VINDO!! A Plataforma Com noticias gerais que vão desde História a Informática, tornando o conhecimento público e acessível para todos.</center>
+			</div>
+		</div>
+		</div>
+		
+		<div id = "footer">
+			NOTIF - Noticias<br>IFAL-CAMPUS ARAPIRACA
+		</div>
+		
+	</body>
+</html>
