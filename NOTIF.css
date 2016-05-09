@@ -1,0 +1,36 @@
+.mac{
+   	background-color: white;
+	color: black;
+	padding:20 px;
+}
+.ara{
+   	background-color: white;
+	color: green;
+	padding:20 px;
+}
+#header{
+	background-color: green;
+	color: white;
+	text-align: center;
+	padding: 5px; 
+}
+#nav{
+	line-height: 30px;
+	background-color: #eeeeee;
+	height: 325px;
+	width: 200px;
+	float: left;
+	padding: 5px;
+}
+#section{
+		width: 900px;
+		float: left;
+		padding: 50px;
+	}
+#footer{
+	background-color: green;
+	color: white;
+	clear:both;
+	text-align:center;
+	padding:10px;
+}
