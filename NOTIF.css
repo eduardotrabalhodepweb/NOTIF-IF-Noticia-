@@ -18,12 +18,20 @@
 	line-height: 30px;
 	background-color: #eeeeee;
 	height: 325px;
-	width: 200px;
+	width: 300px;
 	float: left;
 	padding: 5px;
 }
+#nav1{
+	line-height: 30px;
+	background-color: #eeeeee;
+	height: 325px;
+	width: 200px;
+	float: right;
+	padding: 5px;
+}
 #section{
-		width: 900px;
+		width: 1000px;
 		float: left;
 		padding: 50px;
 	}
