@@ -16,29 +16,27 @@
     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
 	</head>
 	<body>
-		<img src="zeropoint_logo.png"style="float:right;width:350px;height:180px;">
+		<img src="zeropoint_logo.png"style="float:right;width:350px;height:155px;">
 		<div id = "header">
-			<h1>Instituto Federal de Educação, Ciência e Tecnologia de Alagoas - IFAL<br>Campus Arapiraca<br>NOTIF-IF Notícias</h1>
-			<button type="button"  class="btn btn-lg btn-default">Página Inicial</button>
+			<h1>Instituto Federal de Educação, Ciência e Tecnologia de Alagoas - IFAL<br>Campus Arapiraca<br>NOTIF-IF Notícias</h1><hr>
+
+			<button type="button"  class="btn btn-lg btn-default" href="primeiroano.html"></a>Página Inicial</button>
+			<button type="button"  class="btn btn-lg btn-default">Publicações</button>
 			<button type="button"  class="btn btn-lg btn-default">Sobre</button>
 			<button type="button"  class="btn btn-lg btn-default">Informações de Contato</button>
 		</div>
-		<div id="nav">
-			<a href="paginainicial.html">Pagina Inicial </a><br>
-			<a href="primeiroano.html">Primeiro Ano do IFAL </a><br>
-			<a href="segundooano.html">Segundo Ano do IFAL </a><br>
-			<a href="terceirooano.html">Terceiro Ano do IFAL </a><br>
-			<a href="sobre.html"> Sobre </a><br>
-		</div>
 		<div id="section">
 			<div class="mac">
-				<h1 align="center">Seja BEM VINDO!! A Plataforma Com noticias gerais que vão desde História a Informática, tornando o conhecimento público e acessível para todos.</center>
+				<h1 align="justify">Seja BEM VINDO!! A Plataforma Com noticias gerais que vão desde História a Informática, tornando o conhecimento público e acessível para todos.</justify>
 			</div>
 		</div>
 		</div>
-		
+		<div id="nav1">
+			<img src=""style="float:right;width:75px;height:80px;">
+			
+		</div>
 		<div id = "footer">
-			NOTIF - Noticias<br>IFAL-CAMPUS ARAPIRACA
+			NOTIF - Noticias<br>IFAL-CAMPUS ARAPIRACA<br>Facebook,Instagram
 		</div>
 		
 	</body>
